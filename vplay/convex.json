@@ -1,0 +1,4 @@
+{
+  "authInfoEndpoint": "https://auth.convex.dev",
+  "functions": "convex"
+}
